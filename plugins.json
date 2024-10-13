@@ -1,9 +1,9 @@
 {
-  "Ponpon Menu": {
+  "Ponpon": {
     "repo": "https://github.com/hponcet/ponpon-organizr-plugin",
-    "author": "CauseFX",
+    "author": "ponpon",
     "category": "Testing",
-    "description": "This is a skeleton framework for an Organizr plugin - Please look at the file structure.",
+    "description": "Ponpon Menu is a plugin for Organizr",
     "icon": "https://raw.githubusercontent.com/Organizr/Organizr-Plugins/main/test/logo.png",
     "contact": "admin@ponpon.ovh",
     "website": "https://ponpon.ovh",
