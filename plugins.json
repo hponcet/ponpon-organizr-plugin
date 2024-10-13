@@ -1,0 +1,22 @@
+{
+  "Ponpon Menu": {
+    "repo": "https://github.com/hponcet/ponpon-organizr-plugin",
+    "author": "CauseFX",
+    "category": "Testing",
+    "description": "This is a skeleton framework for an Organizr plugin - Please look at the file structure.",
+    "icon": "https://raw.githubusercontent.com/Organizr/Organizr-Plugins/main/test/logo.png",
+    "contact": "admin@ponpon.ovh",
+    "website": "https://ponpon.ovh",
+    "version": "1.0.0",
+    "minimum_organizr_version": "2.1.0",
+    "release_date": "13-10-2024",
+    "last_updated": "13-10-2024",
+    "github_folder": "ponponMenu",
+    "project_folder": "ponponMenu",
+    "license": "personal,business",
+    "images": {
+      "Main": "https://assets.hongkiat.com/uploads/automated-php-test/tdd-example.jpg",
+      "Alternative": "https://i.stack.imgur.com/mCYvN.png"
+    }
+  }
+}
